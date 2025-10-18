@@ -2,10 +2,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Engenharia de Software.
-- 💼 Trabalhando como desenvolvedor full stack.
-- 🌱 Aprendendo mais sobre DevOps e automação de deploys.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
+- 🎓 Estudando Engenharia de Software.  
+- 💼 Trabalhando como desenvolvedor full stack.  
+- 🌱 Aprendendo mais sobre DevOps e automação de deploys.  
 
 ## Minhas Skills
 
@@ -33,8 +33,14 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-João%20Marcos%20Silva%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-marcos-silva-santos-24a89434a/)](https://www.linkedin.com/in/jo%C3%A3o-marcos-silva-santos-24a89434a/)
-[![Gmail Badge](https://img.shields.io/badge/-silvasantosjoaomarcos58@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvasantosjoaomarcos58@gmail.com)](mailto:silvasantosjoaomarcos58@gmail.com)
-[![GitHub][def]](https://github.com/jhonxy)
+<a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-silva-santos-24a89434a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[def]: https://img.shields.io/github/followers/jhonxy?label=follow&style=social
+<a href="mailto:silvasantosjoaomarcos58@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/jhonxy" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
